@@ -6,7 +6,7 @@ on:
       dmg_url:
         description: 'Zalo DMG Download URL'
         required: true
-        default: 'https://res-download-pc-te-vnso-pt-51.zadn.vn/mac/ZaloSetup-universal-25.5.3.dmg'
+        default: 'https://res-download-pc-te-vnso-tt-15.zadn.vn/mac/ZaloSetup-universal-25.8.1.dmg'
         type: string
 
 permissions:
