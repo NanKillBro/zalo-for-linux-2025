@@ -3,7 +3,7 @@
 [![Build Status](https://github.com/doandat943/zalo-for-linux/actions/workflows/build.yml/badge.svg)](https://github.com/doandat943/zalo-for-linux/actions/workflows/build.yml)
 
 An unofficial, community-driven port of the Zalo desktop application for **Linux only**, created by repackaging the official macOS client into a standard AppImage.
-
+- For ZaDark version, [click here](https://github.com/NanKillBro/zalo-linux-unofficial-2025).
 ## ⚠️ Important: Known Issues
 
 - **Message Synchronization (E2EE):** Due to missing native macOS libraries for End-to-End Encryption, messages in encrypted chats **will not synchronize** automatically on a fresh install.
