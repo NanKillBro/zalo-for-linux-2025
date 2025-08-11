@@ -4,7 +4,7 @@ const { execSync } = require('child_process');
 const https = require('https');
 const http = require('http');
 
-const DMG_URL = process.env.DMG_URL || 'https://res-download-pc-te-vnso-pt-51.zadn.vn/mac/ZaloSetup-universal-25.5.3.dmg';
+const DMG_URL = process.env.DMG_URL || 'https://res-download-pc-te-vnso-tt-15.zadn.vn/mac/ZaloSetup-universal-25.8.1.dmg';
 const WORK_DIR = path.join(__dirname, '..', 'temp');
 const APP_DIR = path.join(__dirname, '..', 'app');
 
